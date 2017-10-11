@@ -1,3 +1,21 @@
-body.intro{
-  
+h1.intro{
+  text-align: center;
+  color: crimson;
+}
+
+h2.intro{
+  text-align: center;
+  font-style: oblique;
+  color: #f7f8f9;
+}
+body {
+  background-color: #5f81b7;
+}
+p.intro{
+  text-align: center;
+  color: #34373a;
+}
+img.center {
+  display: block;
+  margin: 0 auto;
 }
